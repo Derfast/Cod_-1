@@ -1,0 +1,74 @@
+
+    .all {
+
+color: #3C3F41;
+
+padding: 0px 20px 10px 20px;
+margin: 20px auto;
+background-color: #FFFFFF;
+border: 2px solid #FFFFFF;
+width: 300px;
+
+border: 2px solid #3C3F41;
+
+}
+
+
+    h3 {
+color: #000000;
+text-align: start;
+margin-bottom: 2px;
+
+}
+
+    hr {
+border: 0;
+height: 1px;
+background: #3C3F41;
+margin-bottom: 20px;
+margin-top: 0px;
+
+}
+
+
+    .Money {
+
+border: 2px solid #3C3F41;
+padding: 1px 1px 1px 1px;
+margin: 2px auto;
+width: 40px;
+
+}
+
+    .sum {
+
+border: 2px solid #3C3F41;
+padding: 1px 1px 1px 1px;
+margin: 2px auto;
+width: 80px;
+
+
+}
+
+    #Indent {
+
+margin-left: 7px;
+
+}
+
+
+
+
+    .В {
+margin-bottom: 10px;
+
+}
+
+.select-css {
+margin-right: 35px;
+border: 2px solid #3C3F41;
+
+
+
+}
+
